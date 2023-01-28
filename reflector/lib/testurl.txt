@@ -1,0 +1,2 @@
+http://testphp.vulnweb.com/hpp/params.php?p=valid&pp=12
+http://testphp.vulnweb.com/showimage.php?file=1qwerasdf
